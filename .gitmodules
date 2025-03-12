@@ -1,0 +1,3 @@
+[submodule "platforms/web/vyrn-web"]
+	path = platforms/web/vyrn-web
+	url = https://github.com/znimator/vyrn-web
